@@ -1,9 +1,0 @@
-{
-  "name": "change-profile-picture-action",
-  "version": "1.0.0",
-  "description": "GitHub action to change profile picture",
-  "main": "index.js",
-  "dependencies": {
-    "@octokit/rest": "^18.0.0"
-  }
-}
